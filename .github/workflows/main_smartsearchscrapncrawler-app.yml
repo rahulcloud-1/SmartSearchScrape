@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'SmartSearchScrapNCrawler-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B31EE01C5F44758A30887B148E55E53 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE9483E98CD743A8827C4D6050EDF42F }}
